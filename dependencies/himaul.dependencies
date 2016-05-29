@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "ghost5825/himaul",
+    "target_path": "device/htc/himaul",
+    "revision":    "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "ghost5825/hima-common",
+    "target_path": "device/htc/hima-common",
+    "revision":    "cm-13.0"
+  },
+  {
+    "remote":      "cm",
+    "repository":  "android_kernel_htc_msm8994",
+    "target_path": "kernel/htc/msm8994",
+    "revision":    "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "ghost5825/htc",
+    "target_path": "vendor/htc",
+    "revision":    "master"
+  }
+]

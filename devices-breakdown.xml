@@ -20,6 +20,7 @@
     <vendor Name="HTC">
         <device FullName="Evo 4G LTE" CodeName="jewel"/>
         <device FullName="Nexus 9" CodeName="flounder"/>
+        <device FullName="One 2015 (T-Mobile)" CodeName="himaul"/>
         <device FullName="One 2013 (AT&amp;T, GSM, T-Mobile)" CodeName="m7"/>
         <device FullName="One 2013 (Sprint)" CodeName="m7spr"/>
         <device FullName="One 2013 (Verizon)" CodeName="m7vzw"/>
